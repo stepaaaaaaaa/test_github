@@ -1,2 +1,2 @@
 # test_github
-Python learning using gihub. My first repositiry.
+Python learning using github. My first repository.
